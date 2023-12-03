@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">Music Player - MP3 &amp; all Audio Player</string>
-    <string name="privacypolicy">https://www.google.com</string>
+    <string name="app_name">WildCat Music Player</string>
+    <string name="privacypolicy">https://mywild.work/privacy</string>
     <string name="developer">developer</string>
     <string name="eq">Equalizer</string>
     <string name="fav">Favorite</string>
